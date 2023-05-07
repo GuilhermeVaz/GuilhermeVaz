@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Sicredi
+- 🌱 I’m currently learning Angular, TypeScript, Jasmine
+- 💬 Ask me about React, JavaScript, Cypress, Jest, SpringBoot, Java

@@ -24,7 +24,7 @@
       <img align="center" height="25" width="60" src="https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=jest&logoColor=white">
     </li>
     <li>
-      Contact via Linkedin: 
+      📬 Contact via Linkedin: 
       <a href='https://www.linkedin.com/in/guilherme-soares-vaz/'>Guilherme Vaz</a>
     </li>
   </ul>

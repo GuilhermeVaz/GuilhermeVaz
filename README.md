@@ -11,3 +11,5 @@
     <li>💬 Ask me about React, JavaScript, Cypress, Jest, SpringBoot, Java</li>
   </ul>
 </h2>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevaz&layout=compact&langs_count=7&theme=dark"/>

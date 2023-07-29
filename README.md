@@ -1,6 +1,6 @@
 <h1>
   <p align='center'> 
-    Alô, meu nome é Guilherme Vaz! 👋 
+    Olá, meu nome é Guilherme Vaz! 👋 
   </p>
 </h1>
 

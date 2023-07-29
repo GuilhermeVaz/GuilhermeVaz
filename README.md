@@ -17,6 +17,7 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/REACT-2B303B?style=for-the-badge&logo=react&logoColor=149ECA">
   <img align="center" height="30" width="90" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
